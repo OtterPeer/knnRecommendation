@@ -1,2 +1,2 @@
 # knnRecommendation
-rekomendacja
+Model treningowy oraz model predykcji
